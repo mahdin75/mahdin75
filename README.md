@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on ML-enabled Web and Moblie GIS applications<br>👯 I’m looking to collaborate on Geospatial related research projects<br>🌱 I’m currently learning LLMs and GIS Agents<br>💬 Ask me about GIS, Web Development, and Machine Learning<br>👯 I have a background in spatiotemporal prediction of diseases and finding the associated factors (Climate-related factors) to their spread geographically.
+🔭 I’m currently working on ML-enabled Web and Moblie GIS applications<br>👯 I’m looking to collaborate on Geospatial related research projects<br>🌱 I’m currently learning LLMs and GIS Agents<br>💬 Ask me about GIS, Web Development, and Machine Learning<br>👯 I have a background in spatiotemporal prediction of diseases and finding the associated factors (Climate-related factors) to their spread geographically while two of my paper has been published in [ 
+'Nature- Scientific Reports'](https://www.nature.com/articles/s41598-023-40865-4) and ['Springer- Spatial Information Research'](https://link.springer.com/article/10.1007/s41324-024-00595-9).
 
 
 ## 🌐 Socials:
