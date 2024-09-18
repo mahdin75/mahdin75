@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on ML-enabled Web and Moblie GIS applications (over 8 years of exprience in Web GIS application development - since I was 19)<br>👯 I’m looking to collaborate on Geospatial-related research projects<br>🌱 I’m currently learning LLMs and GIS Agents<br>💬 Ask me about GIS, Web Development, and Machine Learning<br>👯 I have a background in the spatiotemporal prediction of diseases and finding the associated factors (Climate-related factors) to their spread geographically while two of my papers have been published in [
-Scientific Reports (Nature)](https://www.nature.com/articles/s41598-023-40865-4) and [Spatial Information Research (Springer)](https://link.springer.com/article/10.1007/s41324-024-00595-9). Both Geostatistical models and Machine Learning have been used for this purpose.
+
+🔭 **Current Focus:** I'm actively working on ML-enabled Web and Mobile GIS applications, with over 8 years of experience in Web GIS application development (since the age of 19).<br>  
+👯 **Collaborations:** I’m open to collaborating on geospatial research projects and applications.<br>  
+🌱 **Learning Journey:** Currently, I'm diving deeper into LLMs (Large Language Models) and GIS Agents.<br>  
+💬 **Expertise:** Feel free to reach out to me regarding GIS, Web Development, and Machine Learning.<br>  
+📚 **Research Background:** My research includes the spatiotemporal prediction of diseases and identifying climate-related factors influencing their geographic spread. My work has been published in [Scientific Reports (Nature)](https://www.nature.com/articles/s41598-023-40865-4) and [Spatial Information Research (Springer)](https://link.springer.com/article/10.1007/s41324-024-00595-9). Both geostatistical and machine learning models were applied in these studies.
 
 
 ## 🌐 Socials:
