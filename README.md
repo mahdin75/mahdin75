@@ -6,6 +6,7 @@
 💬 **Expertise:** Feel free to reach out to me regarding GIS, Web Development, and Machine Learning.<br>  
 📚 **Research Background:**
 My research includes the spatiotemporal prediction of diseases and identifying climate-related factors influencing their geographic spread. My work has been published in [Scientific Reports (Nature)](https://www.nature.com/articles/s41598-023-40865-4) and [Spatial Information Research (Springer)](https://link.springer.com/article/10.1007/s41324-024-00595-9). Both geostatistical and machine learning models were applied in these studies.
+
 🌍 **GIS & Agentic AI:**
 More recently, I have been working on **GIS-focused Agentic AI**, investigating how autonomous systems can leverage spatial data and web-based platforms for intelligent decision-making.
 📝 **Preprints:**
