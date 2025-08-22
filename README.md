@@ -8,7 +8,7 @@
 My research includes the spatiotemporal prediction of diseases and identifying climate-related factors influencing their geographic spread. My work has been published in [Scientific Reports (Nature)](https://www.nature.com/articles/s41598-023-40865-4) and [Spatial Information Research (Springer)](https://link.springer.com/article/10.1007/s41324-024-00595-9). Both geostatistical and machine learning models were applied in these studies.
 
 🌍 **GIS & Agentic AI:**
-More recently, I have been working on **GIS-focused Agentic AI*
+More recently, I have been working on **GIS-focused Agentic AI**. I have been working on the projects like [gis-mcp](https://github.com/mahdin75/gis-mcp), [geoserver-mcp](https://github.com/mahdin75/geoserver-mcp), and also the following paper.
 
 📝 **Preprints:**
 
