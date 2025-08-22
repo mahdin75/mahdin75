@@ -20,7 +20,7 @@ More recently, I have been working on **GIS-focused Agentic AI**. I have been wo
 
 # 💻 Tech Stack:
 **The technologies I have worked with in recent years** <br><br>
-![Alt text](SKILLS2025.PNG "a title")
+![Alt text](Skills2025.PNG "a title")
 
 
 
