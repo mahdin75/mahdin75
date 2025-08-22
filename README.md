@@ -12,7 +12,7 @@ More recently, I have been working on **GIS-focused Agentic AI**. I have been wo
 
 📝 **Preprints:**
 
-* [Fine-Tuning Small Language Models (SLMs) for Autonomous Web-based Geographical Information Systems (AWebGIS)](https://arxiv.org/abs/2508.04846) — my experience in GIS Agentic AI, available on arXiv.
+* [Fine-Tuning Small Language Models (SLMs) for Autonomous Web-based Geographical Information Systems (AWebGIS)](https://arxiv.org/abs/2508.04846)
 
 
 ## 🌐 Socials:
