@@ -19,8 +19,8 @@ More recently, I have been working on **GIS-focused Agentic AI**. I have been wo
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahdi.nazari.ashani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdinazari_com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nazari-7706a411b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6771718) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahdinazari75) 
 
 # 💻 Tech Stack:
-**The technologies I have worked with can be seen in the following picture.** <br><br>
-![Alt text](SKILLS2025.jpg "a title")
+**The technologies I have worked with in recent years** <br><br>
+![Alt text](SKILLS2025.PNG "a title")
 
 
 
