@@ -10,7 +10,7 @@
 
 ## 📚 Research Background
 
-My research spans two primary domains: **Spatial Epidemiology & Health Geography** and **GeoAI & Autonomous GIS**. In spatial epidemiology, I have worked on disease mapping, spatiotemporal prediction of diseases, and the identification of environmental and climate-related factors influencing disease distribution. My research applies both geostatistical and machine learning approaches to understand complex spatial health phenomena. More recently, my work has focused on **Agentic AI, Autonomous GIS, and AI-powered geospatial systems**. I am particularly interested in enabling Large Language Models (LLMs) and Small Language Models (SLMs) to interact with geospatial data, GIS software, web services, and spatial analysis tools to automate geospatial workflows and support intelligent decision-making.
+My research focuses on Spatial Epidemiology, GeoAI, and Autonomous GIS. I apply geostatistical and machine learning methods to disease mapping and spatiotemporal prediction, and more recently develop Agentic AI systems that integrate LLMs and SLMs with geospatial data, software, and services.
 
 
 ## 📝 Selected Publications
