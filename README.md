@@ -6,24 +6,12 @@
 
 🌱 **Current Interests:** My recent work focuses on Large Language Models (LLMs), Small Language Models (SLMs), GIS Agents, Agentic AI, and Autonomous GIS systems.
 
-💬 **Areas of Expertise:** GIScience, Web GIS, Geospatial Software Engineering, Machine Learning, Spatial Data Analysis, GeoAI, and Autonomous GIS.
+💬 **Areas of Expertise:** GIScience, GeoAI, Geospatial Software Engineering, Machine Learning, Spatial Data Analysis, and Autonomous GIS.
 
 ## 📚 Research Background
 
-My research spans two primary domains: **Spatial Epidemiology & Health Geography** and **GeoAI & Autonomous GIS**.
+My research spans two primary domains: **Spatial Epidemiology & Health Geography** and **GeoAI & Autonomous GIS**. In spatial epidemiology, I have worked on disease mapping, spatiotemporal prediction of diseases, and the identification of environmental and climate-related factors influencing disease distribution. My research applies both geostatistical and machine learning approaches to understand complex spatial health phenomena. More recently, my work has focused on **Agentic AI, Autonomous GIS, and AI-powered geospatial systems**. I am particularly interested in enabling Large Language Models (LLMs) and Small Language Models (SLMs) to interact with geospatial data, GIS software, web services, and spatial analysis tools to automate geospatial workflows and support intelligent decision-making.
 
-In spatial epidemiology, I have worked on disease mapping, spatiotemporal prediction of diseases, and the identification of environmental and climate-related factors influencing disease distribution. My research applies both geostatistical and machine learning approaches to understand complex spatial health phenomena.
-
-More recently, my work has focused on **Agentic AI, Autonomous GIS, and AI-powered geospatial systems**. I am particularly interested in enabling Large Language Models (LLMs) and Small Language Models (SLMs) to interact with geospatial data, GIS software, web services, and spatial analysis tools to automate geospatial workflows and support intelligent decision-making.
-
-## 🌍 Agentic AI 
-
-I actively develop frameworks and tools that integrate AI agents with geospatial technologies, enabling autonomous execution of GIS tasks, spatial analysis workflows, and interactions with geospatial services.
-
-### Open-Source Projects
-
-* [gis-mcp](https://github.com/mahdin75/gis-mcp) — MCP server for geospatial analysis and GIS workflows.
-* [geoserver-mcp](https://github.com/mahdin75/geoserver-mcp) — MCP integration for GeoServer automation and management.
 
 ## 📝 Selected Publications
 
@@ -37,7 +25,16 @@ I actively develop frameworks and tools that integrate AI agents with geospatial
   [Fine-Tuning Small Language Models (SLMs) for Autonomous Web-based Geographical Information Systems (AWebGIS)](https://www.tandfonline.com/doi/abs/10.1080/15230406.2026.2625987)
 
 
+## 🌍 Agentic AI 
 
+I actively develop frameworks and tools that integrate AI agents with geospatial technologies, enabling autonomous execution of GIS tasks, spatial analysis workflows, and interactions with geospatial services.
+
+
+### Open-Source Projects
+
+* [gis-mcp](https://github.com/mahdin75/gis-mcp) — MCP server for geospatial analysis and GIS workflows.
+* [geoserver-mcp](https://github.com/mahdin75/geoserver-mcp) — MCP integration for GeoServer automation and management.
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahdi.nazari.ashani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdinazari_com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nazari-7706a411b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6771718) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahdinazari75) 
 
