@@ -10,9 +10,10 @@ My research includes the spatiotemporal prediction of diseases and identifying c
 🌍 **GIS & Agentic AI:**
 More recently, I have been working on **GIS-focused Agentic AI**. I have been working on the projects like [gis-mcp](https://github.com/mahdin75/gis-mcp), [geoserver-mcp](https://github.com/mahdin75/geoserver-mcp), and also the following paper.
 
-📝 **Preprints:**
+📝 **Publications:**
 
-* [Fine-Tuning Small Language Models (SLMs) for Autonomous Web-based Geographical Information Systems (AWebGIS)](https://arxiv.org/abs/2508.04846)
+Publised on CaGIS (Tayor & Francis, 2026)
+* [Fine-Tuning Small Language Models (SLMs) for Autonomous Web-based Geographical Information Systems (AWebGIS)](https://www.tandfonline.com/doi/abs/10.1080/15230406.2026.2625987)
 
 
 ## 🌐 Socials:
