@@ -12,7 +12,7 @@ More recently, I have been working on **GIS-focused Agentic AI**. I have been wo
 
 📝 **Publications:**
 
-Publised on CaGIS (Tayor & Francis, 2026)
+Published on CaGIS (Tayor & Francis, 2026)
 * [Fine-Tuning Small Language Models (SLMs) for Autonomous Web-based Geographical Information Systems (AWebGIS)](https://www.tandfonline.com/doi/abs/10.1080/15230406.2026.2625987)
 
 
