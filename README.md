@@ -1,19 +1,41 @@
-# 💫 About Me:
+# 💫 About Me
 
-🔭 **Current Focus:** I'm actively working on ML-enabled Web and Mobile GIS applications, with over 9 years of experience in Web GIS application development (since the age of 19).<br>  
-👯 **Collaborations:** I’m open to collaborating on geospatial research projects and applications.<br>  
-🌱 **Learning Journey:** Currently, I'm diving deeper into LLMs (Large Language Models) and GIS Agents.<br>  
-💬 **Expertise:** Feel free to reach out to me regarding GIS, Web Development, and Machine Learning.<br>  
-📚 **Research Background:**
-My research includes the spatiotemporal prediction of diseases and identifying climate-related factors influencing their geographic spread. My work has been published in [Scientific Reports (Nature)](https://www.nature.com/articles/s41598-023-40865-4) and [Spatial Information Research (Springer)](https://link.springer.com/article/10.1007/s41324-024-00595-9). Both geostatistical and machine learning models were applied in these studies.
+🔭 **Current Focus:** I develop ML-enabled Web and Mobile GIS applications and have over 10 years of experience in geospatial software and Web GIS development, beginning my journey at the age of 19.
 
-🌍 **GIS & Agentic AI:**
-More recently, I have been working on **GIS-focused Agentic AI**. I have been working on the projects like [gis-mcp](https://github.com/mahdin75/gis-mcp), [geoserver-mcp](https://github.com/mahdin75/geoserver-mcp), and also the following paper.
+👯 **Collaboration:** I am open to collaborating on geospatial research projects, GeoAI initiatives, and intelligent geospatial application development.
 
-📝 **Publications:**
+🌱 **Current Interests:** My recent work focuses on Large Language Models (LLMs), Small Language Models (SLMs), GIS Agents, Agentic AI, and Autonomous GIS systems.
 
-Published on CaGIS (Tayor & Francis, 2026)
-* [Fine-Tuning Small Language Models (SLMs) for Autonomous Web-based Geographical Information Systems (AWebGIS)](https://www.tandfonline.com/doi/abs/10.1080/15230406.2026.2625987)
+💬 **Areas of Expertise:** GIScience, Web GIS, Geospatial Software Engineering, Machine Learning, Spatial Data Analysis, GeoAI, and Autonomous GIS.
+
+## 📚 Research Background
+
+My research spans two primary domains: **Spatial Epidemiology & Health Geography** and **GeoAI & Autonomous GIS**.
+
+In spatial epidemiology, I have worked on disease mapping, spatiotemporal prediction of diseases, and the identification of environmental and climate-related factors influencing disease distribution. My research applies both geostatistical and machine learning approaches to understand complex spatial health phenomena.
+
+More recently, my work has focused on **Agentic AI, Autonomous GIS, and AI-powered geospatial systems**. I am particularly interested in enabling Large Language Models (LLMs) and Small Language Models (SLMs) to interact with geospatial data, GIS software, web services, and spatial analysis tools to automate geospatial workflows and support intelligent decision-making.
+
+## 🌍 Agentic AI 
+
+I actively develop frameworks and tools that integrate AI agents with geospatial technologies, enabling autonomous execution of GIS tasks, spatial analysis workflows, and interactions with geospatial services.
+
+### Open-Source Projects
+
+* [gis-mcp](https://github.com/mahdin75/gis-mcp) — MCP server for geospatial analysis and GIS workflows.
+* [geoserver-mcp](https://github.com/mahdin75/geoserver-mcp) — MCP integration for GeoServer automation and management.
+
+## 📝 Selected Publications
+
+* **Scientific Reports (Nature Portfolio), 2023**
+  [Socioeconomic and Environmental Determinants of Foot-and-Mouth Disease Incidence: An Ecological, Cross-Sectional Study Across Iran Using Spatial Modeling](https://www.nature.com/articles/s41598-023-40865-4)
+
+* **Spatial Information Research (Springer), 2024**
+  [Nationwide Spatiotemporal Prediction of Foot-and-Mouth Disease in Iran Using Machine Learning (2008–2018)](https://link.springer.com/article/10.1007/s41324-024-00595-9)
+
+* **Cartography and Geographic Information Science (CaGIS, Taylor & Francis), 2026**
+  [Fine-Tuning Small Language Models (SLMs) for Autonomous Web-based Geographical Information Systems (AWebGIS)](https://www.tandfonline.com/doi/abs/10.1080/15230406.2026.2625987)
+
 
 
 ## 🌐 Socials:
