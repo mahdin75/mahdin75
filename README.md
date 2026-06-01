@@ -8,12 +8,12 @@
 
 💬 **Areas of Expertise:** GIScience, GeoAI, Geospatial Software Engineering, Machine Learning, Spatial Data Analysis, and Autonomous GIS.
 
-# 📚 Research Background
+## 📚 Research Background
 
 My research focuses on Spatial Epidemiology, GeoAI, and Autonomous GIS. I apply geostatistical and machine learning methods to disease mapping and spatiotemporal prediction, and more recently develop Agentic AI systems that integrate LLMs and SLMs with geospatial data, software, and services.
 
 
-# 📝 Selected Publications
+## 📝 Selected Publications
 
 * **Scientific Reports (Nature Portfolio), 2023**
   [Socioeconomic and Environmental Determinants of Foot-and-Mouth Disease Incidence: An Ecological, Cross-Sectional Study Across Iran Using Spatial Modeling](https://www.nature.com/articles/s41598-023-40865-4)
@@ -25,26 +25,26 @@ My research focuses on Spatial Epidemiology, GeoAI, and Autonomous GIS. I apply 
   [Fine-Tuning Small Language Models (SLMs) for Autonomous Web-based Geographical Information Systems (AWebGIS)](https://www.tandfonline.com/doi/abs/10.1080/15230406.2026.2625987)
 
 
-# 🌍 Agentic AI 
+## 🌍 Agentic AI 
 
 I actively develop frameworks and tools that integrate AI agents with geospatial technologies, enabling autonomous execution of GIS tasks, spatial analysis workflows, and interactions with geospatial services.
 
 
-### Open-Source Projects
+## Open-Source Projects
 
 * [gis-mcp](https://github.com/mahdin75/gis-mcp) — MCP server for geospatial analysis and GIS workflows.
 * [geoserver-mcp](https://github.com/mahdin75/geoserver-mcp) — MCP integration for GeoServer automation and management.
   
-# 🌐 Socials:
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahdi.nazari.ashani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahdinazari_com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-nazari-7706a411b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6771718) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mahdinazari75) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 **The technologies I have been using in recent years** <br><br>
 ![Alt text](SKILLS2025.jpg "a title")
 
 
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahdin75)](https://github.com/ryo-ma/github-profile-trophy)
 
 
